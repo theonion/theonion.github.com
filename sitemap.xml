@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://theonion.github.com/blog/2013/02/23/first/</loc>
+        <lastmod>2013-02-23T00:42:27-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theonion.github.com/blog/archives/</loc>
+        <lastmod>2013-02-23T00:42:27-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theonion.github.com/</loc>
+        <lastmod>2013-02-23T00:42:27-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://theonion.github.com/robots.txt</loc>
+        <lastmod>2013-02-23T00:32:09-06:00</lastmod>
+    </url>
+</urlset>
