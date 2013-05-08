@@ -4,7 +4,7 @@
   <title><![CDATA[The Onion Tech Blog]]></title>
   <link href="http://theonion.github.com/atom.xml" rel="self"/>
   <link href="http://theonion.github.com/"/>
-  <updated>2013-05-08T15:02:31-05:00</updated>
+  <updated>2013-05-08T15:36:24-05:00</updated>
   <id>http://theonion.github.com/</id>
   <author>
     <name><![CDATA[The Onion Tech Team]]></name>
@@ -25,7 +25,7 @@
 
 <p>The <em>Washington Post</em> link actually went to a URL like</p>
 
-<pre><code>http://nancyspartyrentals.com/theonion.php
+<pre><code>http://hackedwordpresssite.com/theonion.php
 </code></pre>
 
 <p>which redirected to a URL like</p>
