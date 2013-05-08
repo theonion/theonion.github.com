@@ -4,7 +4,6 @@ title: "How the Syrian Electronic Army Hacked The Onion"
 date: 2013-05-08 09:42
 comments: true
 categories: [security]
-published: false
 ---
 This is write-up of how the Syrian Electronic Army hacked The Onion. In summary, they phished Onion employees' Google Apps accounts via 3 seperate methods.
 
