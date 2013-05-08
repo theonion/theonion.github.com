@@ -11,7 +11,7 @@ The SEA began by sending phishing emails to various Onion employees beginning ar
 {% img left /images/phish1.png 890 %}
 
 The _Washington Post_ link actually went to a URL like
-    http://nancyspartyrentals.com/theonion.php
+    http://hackedwordpresssite.com/theonion.php
 which redirected to a URL like
     http://googlecom.comeze.com/a/theonion.com/Service.Login?&passive=1209600&cpbps=1&continue=https://mail.google.com/mail/
 which asked for Google Apps credentials before redirecting to the Gmail inbox.
