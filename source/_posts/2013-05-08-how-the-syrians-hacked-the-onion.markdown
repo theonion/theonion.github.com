@@ -5,7 +5,7 @@ date: 2013-05-08 09:42
 comments: true
 categories: [security]
 ---
-This is write-up of how the Syrian Electronic Army hacked The Onion. In summary, they phished Onion employees' Google Apps accounts via 3 seperate methods.
+This is a write-up of how the Syrian Electronic Army hacked The Onion. In summary, they phished Onion employees' Google Apps accounts via 3 seperate methods.
 
 The SEA began by sending phishing emails to various Onion employees beginning around May 3.
 {% img left /images/phish1.png 890 %}
