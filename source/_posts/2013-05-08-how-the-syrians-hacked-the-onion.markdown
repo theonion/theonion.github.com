@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How the Syrians Hacked The Onion"
+title: "How the Syrian Electronic Army Hacked The Onion"
 date: 2013-05-08 09:42
 comments: true
 categories: [security]
@@ -26,4 +26,4 @@ After discovering that at least one account had been compromised, we sent a comp
 
 At this point the editorial staff began publishing articles inspired by the attack. The second article, [Syrian Electronic Army Has A Little Fun Before Inevitable Upcoming Deaths At Hands Of Rebels](http://www.theonion.com/articles/syrian-electronic-army-has-a-little-fun-before-ine,32324/), angered the attacker who then began posting editorial emails on their Twitter account. Once we discovered this, we decided that we could not know for sure which accounts had been compromised and forced a password reset on every staff member's Google Apps account.
 
-In total, the attacker compromised at least 5 accounts. The attacker logged in to compromised accounts from 46.17.103.125 which is also where the SEA [hosts a website](http://46.17.103.125/en/site/index).
+In total, the attacker compromised at least 5 accounts. The attacker logged in to compromised accounts from 46.17.103.125 which is also where the SEA [hosts a website](http://46.17.103.125/en/site/index). The attacker seems to have used the same methods on us as they used on AP, Guardian, etc.
