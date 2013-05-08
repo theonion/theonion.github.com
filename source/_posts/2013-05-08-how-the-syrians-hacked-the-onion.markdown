@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How the Syrians Hacked The Onion"
+title: "How the Syrian Electronic Army Hacked The Onion"
 date: 2013-05-08 09:42
 comments: true
 categories: [security]
@@ -27,3 +27,16 @@ After discovering that at least one account had been compromised, we sent a comp
 At this point the editorial staff began publishing articles inspired by the attack. The second article, [Syrian Electronic Army Has A Little Fun Before Inevitable Upcoming Deaths At Hands Of Rebels](http://www.theonion.com/articles/syrian-electronic-army-has-a-little-fun-before-ine,32324/), angered the attacker who then began posting editorial emails on their Twitter account. Once we discovered this, we decided that we could not know for sure which accounts had been compromised and forced a password reset on every staff member's Google Apps account.
 
 In total, the attacker compromised at least 5 accounts. The attacker logged in to compromised accounts from 46.17.103.125 which is also where the SEA [hosts a website](http://46.17.103.125/en/site/index).
+
+# Don't let this happen to you
+
+From examining the details of this incident, as well as those effecting the AP, Guardian and others, it's clear that the SEA is not using complex methods of attack. All of the hacks so far have been a result of simple phishing, or possibly dictionary attacks—all of which are preventable with a few simple security measures.
+
+* Make sure that your users are educated, and that they are suspicious of all links that ask them to log in, regardless of the sender.
+
+* The email addresses for your twitter accounts should be on a system that is isolated from your organization's normal email. This will make your Twitter accounts virtually invulnerable to phishing (providing that you're using unique, strong passwords for every account).
+
+* All twitter activity should go through an app of some kind, such as HootSuite. Restricting password-based access to your accounts prevents a hacker from taking total ownership, which takes much longer to rectify.
+
+* If possible, have a way to reach out to all of your users outside of their organizational email. In the case of the Guardian hack, the SEA posted screenshots of multiple internal security emails, probably from a compromised email address that was overlooked.
+
