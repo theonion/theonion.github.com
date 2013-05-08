@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://theonion.github.com/atom.xml" rel="self"/>
+  <link href="http://theonion.github.com/"/>
+  <updated>2013-02-23T00:43:13-06:00</updated>
+  <id>http://theonion.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://theonion.github.com/blog/2013/02/23/first/"/>
+    <updated>2013-02-23T00:40:00-06:00</updated>
+    <id>http://theonion.github.com/blog/2013/02/23/first</id>
+    <content type="html"><![CDATA[<p>Hello</p>
+]]></content>
+  </entry>
+  
+</feed>
